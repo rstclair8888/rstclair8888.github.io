@@ -51,25 +51,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/al-folio/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/al-folio/blog/";
-              },
-            },{id: "post-primeirodia",
+        },{id: "post-agora-vai-dia-01",
         
-          title: "Primeirodia",
+          title: "Agora Vai Dia 01!",
         
-        description: "",
+        description: "primeiro dia galera!",
         section: "Posts",
         handler: () => {
           
