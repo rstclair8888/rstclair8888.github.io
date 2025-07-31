@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/al-folio/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-primeirodia",
+        
+          title: "Primeirodia",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/primeirodia/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
